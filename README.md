@@ -21,20 +21,41 @@ Most of what I do lives somewhere between **web development, APIs, automation, a
 
 ## 🛠️ Tech Stack
 
-<div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+## 📝 Languages & Skills
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+#### 🐳 Competitive Programming
 
-</div>
+- [![](https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode3.svg)](https://github.com/jsmat0m)
+
+#### 📚 Frontend Development & Frameworks
+
+- [![](https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg)](https://github.com/jsmat0m)
+  [![](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg)](https://github.com/jsmat0m)
+  [![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg)](https://github.com/jsmat0m)
+- [![](https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg)](https://github.com/jsmat0m)
+  [![](https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg)](https://github.com/jsmat0m)
+  [![](https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs3.svg)](https://github.com/jsmat0m)
+- [![](https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss1.svg)](https://github.com/jsmat0m)
+  [![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Bootstrap/bootstrap2.svg)](https://github.com/jsmat0m)
+  [![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Axios/axios2.svg)](https://github.com/jsmat0m)
+
+#### 🔌 Backend Development & Database Services
+
+- [![](https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs2.svg)](https://github.com/jsmat0m)
+  [![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Express/express3.svg)](https://github.com/jsmat0m)
+- [![](https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql3.svg)](https://github.com/jsmat0m)
+  [![](https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb1.svg)](https://github.com/jsmat0m)
+-  [![](https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql3.svg)](https://github.com/jsmat0m)
+  [![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg)](https://github.com/jsmat0m)
+-  [![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Postman/postman1.svg)](https://github.com/jsmat0m)
+  [![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker3.svg)](https://github.com/jsmat0m)
+-  [![](https://ziadoua.github.io/m3-Markdown-Badges/badges/NestJS/nestjs1.svg)](https://github.com/jsmat0m)
+
+#### ⚙️ Version Control & Documentation Tools
+
+-  [![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github1.svg)](https://github.com/jsmat0m)
+  [![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Markdown/markdown3.svg)](https://github.com/jsmat0m)
 
 ---
 
@@ -48,11 +69,21 @@ I'm drawn to projects that mix **useful software with things I genuinely enjoy**
 <a href="https://github.com/jsmat0m">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://yourinsights.vercel.app/api/insight?username=jsmat0m&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://yourinsights.vercel.app/api/insight?username=Shineii86&theme=github_light&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true">
-  <img src="https://yourinsights.vercel.app/api/insight?username=Shineii86&theme=radical&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="GitHub Card" width="850" />
+  <source media="(prefers-color-scheme: light)" srcset="https://yourinsights.vercel.app/api/insight?username=jsmat0m&theme=github_light&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true">
+  <img src="https://yourinsights.vercel.app/api/insight?username=jsmat0m&theme=radical&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="GitHub Card" width="850" />
   </a>
 </picture>
 </div>
+
+---
+
+## ❤️‍🔥 Anime Inspirations
+Here are some anime that inspire me deeply:
+
+| <img src="https://upload.wikimedia.org/wikipedia/en/9/94/NarutoCoverTankobon1.jpg" width="150"/> | <img src="https://upload.wikimedia.org/wikipedia/en/d/d6/Shingeki_no_Kyojin_manga_volume_1.jpg" width="150"/> | <img src="https://upload.wikimedia.org/wikipedia/en/4/4a/86_light_novel_volume_1_cover.jpg" width="150"/> | <img src="https://upload.wikimedia.org/wikipedia/en/3/3e/Sword_Art_Online_light_novel_volume_1_cover.jpg" width="150"/> | <img src="https://upload.wikimedia.org/wikipedia/en/0/0b/Your_Name_poster.png" width="150"/> |
+|---|---|---|---|---|
+| **[Naruto Shippuden](https://en.wikipedia.org/wiki/Naruto)** | **[Attack on Titan](https://en.wikipedia.org/wiki/Attack_on_Titan)** | **[86 Eight Six](https://en.m.wikipedia.org/wiki/86_(novel_series))** | **[Sword Art Online](https://en.wikipedia.org/wiki/Sword_Art_Online)** | **[Your Name](https://en.wikipedia.org/wiki/Your_Name)** |
+| The journey of Naruto Uzumaki has taught me the importance of never giving up, facing challenges head-on. | The depth of the world-building and emotional struggles inspire me to think about freedom and sacrifice. | A story of resilience and the fight for justice against the odds resonates with my personal aspirations. | SAO inspired my interest in virtual reality and the quest for connection. It's a perfect blend of technology and human emotion. | This movie explores fate, love, and the feeling of longing, which has influenced my views on connections across time. |
 
 ---
 
