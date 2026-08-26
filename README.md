@@ -68,6 +68,10 @@ I'm drawn to projects that mix **useful software with things I genuinely enjoy**
 </picture>
 </div>
 
+<div align="center">
+  <img src="https://github.com/nishatrhythm/nishatrhythm/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%"/>
+</div>
+
 ---
 
 ## ❤️‍🔥 Anime Inspirations
