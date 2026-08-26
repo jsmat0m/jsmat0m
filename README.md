@@ -63,6 +63,7 @@ I'm drawn to projects that mix **useful software with things I genuinely enjoy**
 
 ## 📊 GitHub Stats
 
+<div align="center">
 <a href="https://github.com/jsmat0m">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://yourinsights.vercel.app/api/insight?username=jsmat0m&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true">
@@ -70,6 +71,7 @@ I'm drawn to projects that mix **useful software with things I genuinely enjoy**
   <img src="https://yourinsights.vercel.app/api/insight?username=Shineii86&theme=radical&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="GitHub Card" width="850" />
   </a>
 </picture>
+</div>
 
 ---
 
