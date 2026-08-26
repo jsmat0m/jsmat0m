@@ -42,19 +42,6 @@ I'm drawn to projects that mix **useful software with things I genuinely enjoy**
 
 ---
 
-## 🌟 Around My GitHub
-
-| Focus Area | What You'll Find |
-|---|---|
-| 🎌 **Anime & Streaming** | Tools and experiments like `zenime` and `m3u8proxy` |
-| 📚 **Learning & Reference** | Curated resources I study from, like `build-your-own-x`, `public-apis`, and `project-based-learning` |
-| 💼 **Interview Prep** | Notes and materials for leveling up, e.g. `tech-interview-handbook` |
-| 🤖 **Developer Tools** | Small scripts and utilities built to solve one specific problem at a time |
-
-> Check my [repositories](https://github.com/jsmat0m?tab=repositories) for the latest — I star and fork a lot while I'm learning, so there's always something new to explore.
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
