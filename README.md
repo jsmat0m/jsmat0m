@@ -17,12 +17,6 @@ Hey, I'm **JsmAtom** — a developer who enjoys building, experimenting, and fig
 
 Most of what I do lives somewhere between **web development, APIs, automation, and anime-related projects**. I like taking an idea, turning it into code, breaking it, fixing it, and learning something new every time.
 
-- 🔧 Building web projects, APIs & developer tools
-- 🎌 Anime enthusiast — **Anime For Life**
-- 🧪 Always experimenting with new tech and ideas
-- 📚 Learning in public, one repo at a time
-- 🚀 More projects always in the pipeline
-
 ---
 
 ## 🛠️ Tech Stack
