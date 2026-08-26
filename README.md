@@ -79,10 +79,10 @@ I'm drawn to projects that mix **useful software with things I genuinely enjoy**
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=jsmat0m&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsmat0m&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165em" src="https://github-readme-stats-fast.vercel.app/api?username=jsmat0m&show_icons=true&theme=tokyonight" />
+<img height="165em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=jsmat0m&layout=compact&theme=tokyonight" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jsmat0m&theme=tokyonight&hide_border=true" alt="jsmat0m streak stats" />
+<img src="https://github-readme-stats-fast.vercel.app/api/streak?username=jsmat0m&theme=tokyonight" alt="jsmat0m streak stats" />
 
 <img src="https://github-profile-trophy.vercel.app/?username=jsmat0m&theme=tokyonight&no-frame=true&row=1&column=6" alt="jsmat0m trophies" />
 
