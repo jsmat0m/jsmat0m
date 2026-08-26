@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Header](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=6,11,20&text=JsmAtom%20🥷&fontAlignY=35&fontSize=70&desc=Developer%20|%20Anime%20Enthusiast%20|%20Builder&descAlignY=55&descSize=20)](https://github.com/jsmat0m)
+[![Header](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=6,11,20&text=JsmAtom%20&fontAlignY=35&fontSize=70&desc=Developer%20|%20Anime%20Enthusiast%20|%20Builder&descAlignY=55&descSize=20)](https://github.com/jsmat0m)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=A970FF&center=true&vCenter=true&width=600&lines=Building+things+I+find+interesting;One+project+at+a+time;Anime+For+Life+%F0%9F%8E%8C)](https://git.io/typing-svg)
 
