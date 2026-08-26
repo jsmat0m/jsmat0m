@@ -17,8 +17,6 @@ Hey, I'm **JsmAtom** — a developer who enjoys building, experimenting, and fig
 
 Most of what I do lives somewhere between **web development, APIs, automation, and anime-related projects**. I like taking an idea, turning it into code, breaking it, fixing it, and learning something new every time.
 
----
-
 ## 📝 Languages & Skills
 
 #### 🐳 Competitive Programming
@@ -54,8 +52,6 @@ Most of what I do lives somewhere between **web development, APIs, automation, a
 -  [![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github1.svg)](https://github.com/jsmat0m)
   [![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Markdown/markdown3.svg)](https://github.com/jsmat0m)
 
----
-
 I'm drawn to projects that mix **useful software with things I genuinely enjoy** — which is why anime and streaming tooling shows up so often in my repos.
 
 ---
@@ -82,8 +78,6 @@ Here are some anime that inspire me deeply:
 | **[Naruto Shippuden](https://en.wikipedia.org/wiki/Naruto)** | **[Attack on Titan](https://en.wikipedia.org/wiki/Attack_on_Titan)** | **[86 Eight Six](https://en.m.wikipedia.org/wiki/86_(novel_series))** | **[Sword Art Online](https://en.wikipedia.org/wiki/Sword_Art_Online)** | **[Your Name](https://en.wikipedia.org/wiki/Your_Name)** |
 | The journey of Naruto Uzumaki has taught me the importance of never giving up, facing challenges head-on. | The depth of the world-building and emotional struggles inspire me to think about freedom and sacrifice. | A story of resilience and the fight for justice against the odds resonates with my personal aspirations. | SAO inspired my interest in virtual reality and the quest for connection. It's a perfect blend of technology and human emotion. | This movie explores fate, love, and the feeling of longing, which has influenced my views on connections across time. |
 
----
-
 ## 🎌 Anime For Life
 
 <div align="center">
@@ -94,14 +88,6 @@ Here are some anime that inspire me deeply:
 </div>
 
 Anime isn't just something I watch — it's part of what keeps me inspired to **create, explore, and keep moving forward**.
-
-<!--
-Optional: add a table of your favorite anime like this, with your own picks:
-
-| ![Cover1](url) | ![Cover2](url) | ![Cover3](url) |
-|---|---|---|
-| **Anime 1** | **Anime 2** | **Anime 3** |
--->
 
 ---
 
