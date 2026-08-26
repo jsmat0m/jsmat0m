@@ -69,7 +69,7 @@ I'm drawn to projects that mix **useful software with things I genuinely enjoy**
 </div>
 
 <div align="center">
-  <img src="https://github.com/nishatrhythm/nishatrhythm/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%"/>
+  <img src="https://github.com/jsmat0m/jsmat0m/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%"/>
 </div>
 
 ---
