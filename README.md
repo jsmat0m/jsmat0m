@@ -44,20 +44,6 @@ Most of what I do lives somewhere between **web development, APIs, automation, a
 
 ---
 
-## 🚀 What I Build
-
-```
-┌──────────────────────────────────────────┐
-│                                          │
-│   🌐 Web Projects                        │
-│   ⚡ APIs & Backend Services             │
-│   🎌 Anime-Related Tools                 │
-│   🤖 Automation & Small Utilities        │
-│   🧪 Experiments & Side Projects         │
-│                                          │
-└──────────────────────────────────────────┘
-```
-
 I'm drawn to projects that mix **useful software with things I genuinely enjoy** — which is why anime and streaming tooling shows up so often in my repos.
 
 ---
@@ -79,9 +65,11 @@ I'm drawn to projects that mix **useful software with things I genuinely enjoy**
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats-fast.vercel.app/api?username=jsmat0m&show_icons=true&theme=tokyonight" />
+<img height="165em" src="https://gh-readme-profile.vercel.app/api?username=jsmat0m&theme=aura&hide_border=true)](https://bit.ly/gh-readme-profile" />
 
 <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=jsmat0m&theme=tokyonight" alt="jsmat0m streak stats" />
+
+[![GitHub Readme Profile](https://gh-readme-profile.vercel.app/api?username=jsmat0m&theme=aura&hide_border=true)](https://bit.ly/gh-readme-profile)
 
 </div>
 
