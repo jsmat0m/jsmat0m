@@ -84,7 +84,7 @@ I'm drawn to projects that mix **useful software with things I genuinely enjoy**
 
 </div>
 
-Anime isn't just something I watch — it's part of what keeps me inspired to **create, explore, and keep moving forward**. Feel free to swap the quote above, or drop in your own favorite series/poster art here.
+Anime isn't just something I watch — it's part of what keeps me inspired to **create, explore, and keep moving forward**.
 
 <!--
 Optional: add a table of your favorite anime like this, with your own picks:
