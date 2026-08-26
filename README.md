@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=A970FF&center=true&vCenter=true&width=600&lines=Building+things+I+find+interesting;One+project+at+a+time;Anime+For+Life+%F0%9F%8E%8C)](https://git.io/typing-svg)
 
-![Profile Views](https://komarev.com/ghpvc/?username=jsmat0m&label=Profile%20Views&color=a970ff&style=flat)
+[![Profile Views](https://komarev.com/ghpvc/?username=jsmat0m&label=Profile%20Views&color=a970ff&style=flat)](https://github.com/jsmat0m)
 [![GitHub followers](https://img.shields.io/github/followers/jsmat0m?label=Follow&style=social)](https://github.com/jsmat0m)
 
 </div>
@@ -69,7 +69,7 @@ I'm drawn to projects that mix **useful software with things I genuinely enjoy**
 </div>
 
 <div align="center">
-  <img src="https://github.com/jsmat0m/jsmat0m/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%"/>
+  <a href="https://github.com/jsmat0m"><img src="https://github.com/jsmat0m/jsmat0m/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%"/></a>
 </div>
 
 ---
