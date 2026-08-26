@@ -65,8 +65,6 @@ I'm drawn to projects that mix **useful software with things I genuinely enjoy**
 
 <div align="center">
 
-<img src="https://stats.pphat.top/stats?username=jsmat0m&avatar_mode=radar&theme=synthwave&data_border_style=frame" alt="jsmat0m GitHub stats" />
-
 <img src="https://github-all-stats-alpha.vercel.app/api?username=jsmat0m" alt="jsmat0m all-time stats" />
 
 [![GitHub Readme Profile](https://gh-readme-profile.vercel.app/api?username=jsmat0m&theme=aura&hide_border=true)](https://bit.ly/gh-readme-profile)
