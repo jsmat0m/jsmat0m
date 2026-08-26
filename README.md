@@ -17,6 +17,8 @@ Hey, I'm **JsmAtom** — a developer who enjoys building, experimenting, and fig
 
 Most of what I do lives somewhere between **web development, APIs, automation, and anime-related projects**. I like taking an idea, turning it into code, breaking it, fixing it, and learning something new every time.
 
+I'm drawn to projects that mix **useful software with things I genuinely enjoy** — which is why anime and streaming tooling shows up so often in my repos.
+
 ## 📝 Languages & Skills
 
 #### 🐳 Competitive Programming
@@ -51,8 +53,6 @@ Most of what I do lives somewhere between **web development, APIs, automation, a
 
 -  [![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github1.svg)](https://github.com/jsmat0m)
   [![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Markdown/markdown3.svg)](https://github.com/jsmat0m)
-
-I'm drawn to projects that mix **useful software with things I genuinely enjoy** — which is why anime and streaming tooling shows up so often in my repos.
 
 ---
 
