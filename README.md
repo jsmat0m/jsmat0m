@@ -19,9 +19,6 @@ Most of what I do lives somewhere between **web development, APIs, automation, a
 
 ---
 
-## 🛠️ Tech Stack
-
-
 ## 📝 Languages & Skills
 
 #### 🐳 Competitive Programming
