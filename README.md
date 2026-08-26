@@ -23,35 +23,35 @@ I'm drawn to projects that mix **useful software with things I genuinely enjoy**
 
 #### 🐳 Competitive Programming
 
-- [![](https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode3.svg)](https://github.com/jsmat0m)
+[![](https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode3.svg)](https://github.com/jsmat0m)
 
 #### 📚 Frontend Development & Frameworks
 
-- [![](https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg)](https://github.com/jsmat0m)
+[![](https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg)](https://github.com/jsmat0m)
   [![](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg)](https://github.com/jsmat0m)
   [![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg)](https://github.com/jsmat0m)
-- [![](https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg)](https://github.com/jsmat0m)
+[![](https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg)](https://github.com/jsmat0m)
   [![](https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg)](https://github.com/jsmat0m)
   [![](https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs3.svg)](https://github.com/jsmat0m)
-- [![](https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss1.svg)](https://github.com/jsmat0m)
+[![](https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss1.svg)](https://github.com/jsmat0m)
   [![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Bootstrap/bootstrap2.svg)](https://github.com/jsmat0m)
   [![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Axios/axios2.svg)](https://github.com/jsmat0m)
 
 #### 🔌 Backend Development & Database Services
 
-- [![](https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs2.svg)](https://github.com/jsmat0m)
+[![](https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs2.svg)](https://github.com/jsmat0m)
   [![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Express/express3.svg)](https://github.com/jsmat0m)
-- [![](https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql3.svg)](https://github.com/jsmat0m)
+[![](https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql3.svg)](https://github.com/jsmat0m)
   [![](https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb1.svg)](https://github.com/jsmat0m)
--  [![](https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql3.svg)](https://github.com/jsmat0m)
+[![](https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql3.svg)](https://github.com/jsmat0m)
   [![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg)](https://github.com/jsmat0m)
--  [![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Postman/postman1.svg)](https://github.com/jsmat0m)
+[![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Postman/postman1.svg)](https://github.com/jsmat0m)
   [![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker3.svg)](https://github.com/jsmat0m)
--  [![](https://ziadoua.github.io/m3-Markdown-Badges/badges/NestJS/nestjs1.svg)](https://github.com/jsmat0m)
+[![](https://ziadoua.github.io/m3-Markdown-Badges/badges/NestJS/nestjs1.svg)](https://github.com/jsmat0m)
 
 #### ⚙️ Version Control & Documentation Tools
 
--  [![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github1.svg)](https://github.com/jsmat0m)
+[![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github1.svg)](https://github.com/jsmat0m)
   [![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Markdown/markdown3.svg)](https://github.com/jsmat0m)
 
 ---
