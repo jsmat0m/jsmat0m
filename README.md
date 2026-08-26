@@ -65,11 +65,7 @@ I'm drawn to projects that mix **useful software with things I genuinely enjoy**
 
 <div align="center">
 
-<img height="165em" src="https://gh-readme-profile.vercel.app/api?username=jsmat0m&theme=aura&hide_border=true)](https://bit.ly/gh-readme-profile" />
-
-<img src="https://github-readme-stats-fast.vercel.app/api/streak?username=jsmat0m&theme=tokyonight" alt="jsmat0m streak stats" />
-
-[![GitHub Readme Profile](https://gh-readme-profile.vercel.app/api?username=jsmat0m&theme=aura&hide_border=true)](https://bit.ly/gh-readme-profile)
+<img height="200em" src="https://gh-readme-profile.vercel.app/api?username=jsmat0m&theme=aura&hide_border=true)](https://bit.ly/gh-readme-profile" /> <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=jsmat0m&theme=tokyonight" alt="jsmat0m streak stats" />
 
 </div>
 
