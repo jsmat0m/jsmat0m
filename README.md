@@ -1,14 +1,11 @@
 <div align="center">
 
-# JsmAtom 🥷
+[![Header](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=6,11,20&text=JsmAtom%20🥷&fontAlignY=35&fontSize=70&desc=Developer%20|%20Anime%20Enthusiast%20|%20Builder&descAlignY=55&descSize=20)](https://github.com/jsmat0m)
 
-### Developer · Anime Enthusiast · Builder
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=A970FF&center=true&vCenter=true&width=600&lines=Building+things+I+find+interesting;One+project+at+a+time;Anime+For+Life+%F0%9F%8E%8C)](https://git.io/typing-svg)
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/jsmat0m)
-
-<br>
-
-> **Building things I find interesting. One project at a time.**
+![Profile Views](https://komarev.com/ghpvc/?username=jsmat0m&label=Profile%20Views&color=a970ff&style=flat)
+[![GitHub followers](https://img.shields.io/github/followers/jsmat0m?label=Follow&style=social)](https://github.com/jsmat0m)
 
 </div>
 
@@ -16,36 +13,32 @@
 
 ## 👋 About Me
 
-Hey! I'm **JsmAtom**.
+Hey, I'm **JsmAtom** — a developer who enjoys building, experimenting, and figuring out how things work under the hood.
 
-I'm a developer who enjoys building, experimenting, and exploring how things work under the hood. Most of my projects revolve around **web development, APIs, automation, and anime-related projects**.
+Most of what I do lives somewhere between **web development, APIs, automation, and anime-related projects**. I like taking an idea, turning it into code, breaking it, fixing it, and learning something new every time.
 
-I like taking an idea, turning it into code, breaking it, fixing it, and learning something new along the way.
-
-* 🔧 Building web projects, APIs & developer tools
-* 🎌 Anime enthusiast — **Anime For Life**
-* 🧪 Experimenting with new technologies and ideas
-* 📚 Always learning something new
-* 🚀 More projects coming...
+- 🔧 Building web projects, APIs & developer tools
+- 🎌 Anime enthusiast — **Anime For Life**
+- 🧪 Always experimenting with new tech and ideas
+- 📚 Learning in public, one repo at a time
+- 🚀 More projects always in the pipeline
 
 ---
 
-## 🛠️ Tech & Tools
+## 🛠️ Tech Stack
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<br>
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
 
@@ -53,34 +46,32 @@ I like taking an idea, turning it into code, breaking it, fixing it, and learnin
 
 ## 🚀 What I Build
 
-```text
+```
 ┌──────────────────────────────────────────┐
 │                                          │
 │   🌐 Web Projects                        │
 │   ⚡ APIs & Backend Services             │
-│   🎌 Anime Projects                      │
-│   🤖 Automation & Tools                  │
+│   🎌 Anime-Related Tools                 │
+│   🤖 Automation & Small Utilities        │
 │   🧪 Experiments & Side Projects         │
 │                                          │
 └──────────────────────────────────────────┘
 ```
 
-I'm especially interested in projects that combine **useful software with things I genuinely enjoy**.
+I'm drawn to projects that mix **useful software with things I genuinely enjoy** — which is why anime and streaming tooling shows up so often in my repos.
 
 ---
 
-## 🌟 Projects
+## 🌟 Around My GitHub
 
-A few things you'll find around my GitHub:
+| Focus Area | What You'll Find |
+|---|---|
+| 🎌 **Anime & Streaming** | Tools and experiments like `zenime` and `m3u8proxy` |
+| 📚 **Learning & Reference** | Curated resources I study from, like `build-your-own-x`, `public-apis`, and `project-based-learning` |
+| 💼 **Interview Prep** | Notes and materials for leveling up, e.g. `tech-interview-handbook` |
+| 🤖 **Developer Tools** | Small scripts and utilities built to solve one specific problem at a time |
 
-| Project                   | Description                                                          |
-| ------------------------- | -------------------------------------------------------------------- |
-| 🎌 **Anime APIs & Tools** | APIs, scrapers, proxies and utilities for anime-related projects     |
-| 🎬 **Streaming Projects** | Experiments and projects around anime/movie streaming                |
-| 🤖 **Developer Tools**    | Small tools and automation projects built to solve specific problems |
-| 📚 **Learning Projects**  | Resources and projects I use to learn new technologies               |
-
-> Check out my repositories for the latest projects and experiments.
+> Check my [repositories](https://github.com/jsmat0m?tab=repositories) for the latest — I star and fork a lot while I'm learning, so there's always something new to explore.
 
 ---
 
@@ -88,19 +79,12 @@ A few things you'll find around my GitHub:
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=jsmat0m&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=jsmat0m&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsmat0m&layout=compact&theme=tokyonight&hide_border=true" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsmat0m&layout=compact&theme=github_dark&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jsmat0m&theme=tokyonight&hide_border=true" alt="jsmat0m streak stats" />
 
-</div>
-
----
-
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jsmat0m&theme=github-dark-blue&hide_border=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=jsmat0m&theme=tokyonight&no-frame=true&row=1&column=6" alt="jsmat0m trophies" />
 
 </div>
 
@@ -108,11 +92,22 @@ A few things you'll find around my GitHub:
 
 ## 🎌 Anime For Life
 
-> *"Whatever you lose, you'll find it again — but what you throw away you'll never get back."*
+<div align="center">
 
-Anime isn't just something I watch — it's one of the things that keeps me inspired to **create, explore, and keep moving forward.**
+> *"Hard work is worthless for those that don't believe in themselves."*
+> **— Naruto Uzumaki, Naruto Shippuden**
 
-🎧 Currently watching / discovering something new...
+</div>
+
+Anime isn't just something I watch — it's part of what keeps me inspired to **create, explore, and keep moving forward**. Feel free to swap the quote above, or drop in your own favorite series/poster art here.
+
+<!--
+Optional: add a table of your favorite anime like this, with your own picks:
+
+| ![Cover1](url) | ![Cover2](url) | ![Cover3](url) |
+|---|---|---|
+| **Anime 1** | **Anime 2** | **Anime 3** |
+-->
 
 ---
 
@@ -120,12 +115,16 @@ Anime isn't just something I watch — it's one of the things that keeps me insp
 
 <div align="center">
 
-If you like my projects, feel free to ⭐ a repository or follow along.
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jsmat0m)
 
-**[Visit my GitHub →](https://github.com/jsmat0m)**
+<!-- Add more badges here as you add socials, e.g.:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Twitter](https://img.shields.io/badge/Twitter-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white)](YOUR_TWITTER_URL)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](YOUR_DISCORD_URL)
+-->
 
-<br>
+If you like what you see, feel free to ⭐ a repo or follow along.
 
-<sub>Thanks for stopping by. Keep building. 🚀</sub>
+**Thanks for stopping by. Keep building. 🚀**
 
 </div>
